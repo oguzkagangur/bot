@@ -23,4 +23,4 @@ async def add(ctx, left: int, right: int):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("")
+bot.run("TOKEN")
